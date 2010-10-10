@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDisplayName</key>
+	<string>TranslateDev</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mongo.widget.translatedev</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CloseBoxInsetX</key>
+	<integer>0</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>0</integer>
+	<key>MainHTML</key>
+	<string>Translate.html</string>
+	<key>Width</key>
+	<integer>305</integer>
+	<key>Height</key>
+	<integer>255</integer>
+</dict>
+</plist>
