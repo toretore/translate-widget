@@ -8,7 +8,6 @@ Translate = Class.create(Base, {
     this.to.set('language', 'en');
     this.observe();
     google.language.getBranding($('branding'));
-    console.log('init');
   },
 
   observe: function(){
